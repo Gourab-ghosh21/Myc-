@@ -7,3 +7,7 @@ int main() {
 if (n % 2 == 0)
         cout << "Even";
     else
+cout << "Odd";
+
+    return 0;
+}
