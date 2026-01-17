@@ -5,3 +5,5 @@ int main() {
     long long fact = 1;
  cout << "Enter a number: ";
     cin >> n;
+for (int i = 1; i <= n; i++) {
+        fact *= i;
