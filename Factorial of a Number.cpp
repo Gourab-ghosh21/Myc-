@@ -8,3 +8,6 @@ int main() {
 for (int i = 1; i <= n; i++) {
         fact *= i;
 }
+
+    cout << "Factorial = " << fact;
+    return 0;
